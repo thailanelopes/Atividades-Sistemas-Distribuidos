@@ -1,2 +1,2 @@
-# Atividades-Sistemas-Distribu-dos
-Repositório destinado as atividades desenvolvidas durante a disciplina de sistemas Distribuídos
+# Atividades-Sistemas-Distribudos
+Repositório destinado as atividades desenvolvidas durante a disciplina de sistemas Distribuídos.
